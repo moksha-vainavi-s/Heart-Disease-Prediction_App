@@ -127,8 +127,6 @@ This project is licensed under the [MIT License](LICENSE).
 ## 👤 Author
 
 **MOKSHA VAINAVI S**  
-📧 smokshavainavi@gmail.com
-🔗 [LinkedIn](www.linkedin.com/in/moksha-vainavi-s-b311512a5) 
 
 ---
 
